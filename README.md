@@ -1,4 +1,4 @@
-# Flutter Http Request
+# Flutter Splash Screen
 
 This snippet code is create flutter custom splash screen.
 
